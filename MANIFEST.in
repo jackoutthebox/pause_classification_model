@@ -1,0 +1,3 @@
+graft pause_classification_model
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  pause_classification_model/jupy *
